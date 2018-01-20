@@ -4,3 +4,6 @@ build
 *.ipynb_checkpoints
 .cache
 DisMod_MR.egg-info/
+
+# Deps
+deps
